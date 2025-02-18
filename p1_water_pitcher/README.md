@@ -7,14 +7,14 @@ This project solves the classic *"Water Pitcher"* problem using **A\*** search, 
 ## **Project Structure**
 ```
 project/
-├── *water_pitcher.py*            # Main solution file (A* search)
-├── *unit_test.py*                # Unit tests (unittest)
-├── *test_from_file.py*           # Tests from multiple input files
-└── *test_inputs/*                # Folder with test input files
-    ├── *input1.txt*
-    ├── *input2.txt*
-    ├── *input3.txt*
-    └── *input4.txt*
+├── water_pitcher.py            # Main solution file (A* search)
+├── unit_test.py                # Unit tests (unittest)
+├── test_from_file.py           # Tests from multiple input files
+└── test_inputs/                # Folder with test input files
+    ├── input1.txt
+    ├── input2.txt
+    ├── input3.txt
+    └── input4.txt
 ```
 ---
 
